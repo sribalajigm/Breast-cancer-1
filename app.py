@@ -636,4 +636,3 @@ else:
         "Please upload test_data.csv "
         "to evaluate the selected model."
     )
-```
