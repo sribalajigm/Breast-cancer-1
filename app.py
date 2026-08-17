@@ -44,9 +44,9 @@ st.write(
 # Load scaler
 # ---------------------------------------------------------
 
-with open("model/scaler.pkl", "rb") as file:
+with open("scaler.pkl", "rb") as file:
     scaler = pickle.load(file)
-with open("model/logistic_regression.pkl", "rb") as file:
+with open("logistic_regression.pkl", "rb") as file:
     model = pickle.load(file)
 
 
