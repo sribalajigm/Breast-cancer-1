@@ -42,11 +42,7 @@ and 12 features specified in the assignment.
 
 ## c. GitHub Repository Link
 
-Paste your GitHub repository link here.
-
-Example:
-
-https://github.com/YOUR_USERNAME/ML_Assignment_2
+https://github.com/sribalajigm/2025ac05646mlassignment2
 
 ---
 
@@ -158,7 +154,7 @@ The Streamlit application provides:
 
 ## Streamlit App Link
 
-Paste your deployed Streamlit URL here.
+https://2025ac05646mlassignment2-9aqsv6zdjwoxsepxqhtcdx.streamlit.app
 
 ---
 
